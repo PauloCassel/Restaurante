@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.centralizar {
+    text-align: center;
+}
+.titulo2 {
+    margin-top: 20px;
+}
+
+#titulo {
+    padding-top: 1px;
+    color: rgb(165, 165, 165);
+    background-color: black;
+    margin-bottom: 20px;
+}
+#opcao {
+    background-color: rgb(245, 255, 104);
+}
+#opcao2 {
+    background-color: rgb(245, 255, 104);
+        margin-left: 10px;
+}
+#opcao3 {
+    background-color: rgb(245, 255, 104);
+        margin-left: 10px;
+}
+#opcao4 {
+        background-color: rgb(245, 255, 104);
+        margin-left: 10px;
+}
+body {
+    background-color: rgb(182, 73, 209);
+}
